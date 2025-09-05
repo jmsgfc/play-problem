@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<exe4j version="10.0" transformSequenceNumber="3">
+  <directoryPresets config="D:/Program Files (x86)" />
+  <application name="homework" distributionSourceDir="C:/Users/Administrator/Desktop" />
+  <executable name="homework" wrapperType="embed" iconSet="true" iconFile="C:/Users/Administrator/Desktop/图片1.ico" executableDir="." executableMode="gui" />
+  <java mainClass="OptimizedQuizApp" vmParameters="-Dfile.encoding=UTF-8" minVersion="1.7" maxVersion="17.0" allowBetaVM="true">
+    <searchSequence>
+      <registry />
+      <directory location="/jre" />
+    </searchSequence>
+    <classPath>
+      <archive location="C:/Users/Administrator/Desktop/homework1/out/artifacts/homework1_jar/homework1.jar" failOnError="false" />
+    </classPath>
+  </java>
+</exe4j>
